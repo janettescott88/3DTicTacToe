@@ -144,13 +144,12 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(486, 387);
+            this.ClientSize = new System.Drawing.Size(486, 493);
             this.Controls.Add(this.showHelp);
             this.Controls.Add(this.difficultyLevels);
             this.Controls.Add(this.gameOrder);
             this.Controls.Add(this.reset);
             this.Controls.Add(this.startGame);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "TicTacToeForm";
